@@ -1,0 +1,177 @@
+/* ----------------------------- Whole Page Apply Css ---------------------------------*/
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+/* ------------------------------- HTMl Tag Css -----------------------------------*/
+hr {
+  border-style: none;
+  border-top-style:dotted;
+  color: #069A8E;
+  width: 6%;
+  border-width: 7px;
+}
+/* ---------------------------------- Page - top - Section -----------------------*/
+.container {
+  background-color: #A1E3D8;
+  height: 82.9vh;
+}
+.heading-para-text {
+  position: absolute;
+  margin: auto;
+  left: 500px;
+  top:10px;
+}
+.mountain-image-fr {
+  position:absolute;
+  top: 200px;
+  margin: auto;
+  left:340px;
+
+}
+.heading-para-text h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  line-height: 1;
+  color: #069A8E;
+}
+.heading-para-text h2 {
+  position: relative;
+  bottom: 40px;
+  font-family: 'Montserrat', sans-serif;
+  color: #005555;
+}
+.heading-para-text pre {
+  position: relative;
+  bottom: 30px;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #005555;
+}
+.skill-row {
+  width: 50%;
+  margin:auto;
+  text-align: left;
+  padding: 30px;
+}
+.web-design {
+  width:30%;
+  float: left;
+}
+.perform-design {
+  width: 30%;
+  float:right;
+}
+.book-design {
+  width: 30%;
+  float:left;
+}
+.web-design {
+  margin:0px 50px 0px 0px ;
+}
+.perform-design {
+  margin:0px 0px 0px 30px ;
+padding-top: 30px;
+}
+.book-design {
+  margin:0px 50px 0px 0px ;
+}
+.sec1 {
+  margin-top: 30px;
+}
+.skills {
+  margin:100px auto 100px auto;
+}
+.skills h2 {
+  color: #069A8E;
+  margin-bottom: 75px;
+}
+.profile h2 {
+  color: #069A8E;
+}
+.skill1h3 {
+  color: #005555;
+}
+
+.sec1 {
+  position: relative;
+  top: 33px;
+}
+.profile {
+  margin:70px;
+}
+.contact-me-section {
+  margin: 100px 0px;
+}
+.contact-me-section h2  {
+  color: #069A8E;
+}
+.contact-me-section h3 {
+  color: #005555;
+}
+.skill1p {
+  line-height: 2;
+}
+.contact-me-section {
+  line-height: 2;
+}
+.contact-me-button {
+  background: #005555;
+  background-image: -webkit-linear-gradient(top, #005555, #005555);
+  background-image: -moz-linear-gradient(top, #005555, #005555);
+  background-image: -ms-linear-gradient(top, #005555, #005555);
+  background-image: -o-linear-gradient(top, #005555, #005555);
+  background-image: linear-gradient(to bottom, #005555, #005555);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 40px 0px;
+
+}
+
+.contact-me-button:hover {
+  background: #069A8E;
+  background-image: -webkit-linear-gradient(top, #069A8E, #069A8E);
+  background-image: -moz-linear-gradient(top, #069A8E, #069A8E);
+  background-image: -ms-linear-gradient(top, #069A8E, #069A8E);
+  background-image: -o-linear-gradient(top, #069A8E, #069A8E);
+  background-image: linear-gradient(to bottom, #069A8E, #069A8E);
+  text-decoration: none;
+}
+.bottom-container  {
+  background-color: #005555;
+  padding: 50px;
+}
+
+.bottom-container a {
+color:#069A8E;
+padding-right: 20px;
+padding-left: 20px;
+text-decoration: none;
+line-height: 2;
+}
+.bottom-container a:hover {
+color:#A1E3D8;
+padding-right: 20px;
+padding-left: 20px;
+text-decoration: none;
+line-height: 2;
+}
+.bottom-container p {
+color:#A1E3D8;
+padding-right: 20px;
+padding-left: 20px;
+text-decoration: none;
+line-height: 3.5;
+font-size: 80%;
+}
+.holala {
+    font-family: 'Sacramento', cursive;
+    font-size: 51px;
+    color:#069A8E; 
+}
